@@ -1390,12 +1390,12 @@ __metadata:
   linkType: hard
 
 "@fastify/websocket@npm:^7.0.1":
-  version: 7.0.1
-  resolution: "@fastify/websocket@npm:7.0.1"
+  version: 7.2.0
+  resolution: "@fastify/websocket@npm:7.2.0"
   dependencies:
     fastify-plugin: ^4.0.0
     ws: ^8.0.0
-  checksum: 46e089c532fd32148707dd2f46d93b7ab52037badcf0878816efb6871c6bbc2b48b06661b013d9ecf63b379bdfde704135515edb0edf06ef37a87317e7afb7e4
+  checksum: e9f66a906db152a8a66bafecd2da382911884f3bbf97eb312a01e0fe94126bd986cec092524436a976377a9111d98f913e73acdd0caa17d6d1e33d3703b4f84a
   languageName: node
   linkType: hard
 
